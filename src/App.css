@@ -1,0 +1,26 @@
+body {
+  background-image: url("https://images3.alphacoders.com/581/581861.jpg");
+  background-size: cover;
+  font-family: papyrus;
+  font-weight: bold;
+ }
+
+table, th, td {
+  border: 1px solid;
+}
+
+td {
+  background-color: rgba(246, 227, 200, 0.8);
+}
+
+th {
+  background-color: rgba(255, 241, 111, 0.797);
+  font-weight: 550;
+  font-size: 25px;
+}
+
+select {
+ 
+  background: rgba(0, 0, 0, 0.3);
+  color: rgb(0, 0, 0);
+}
